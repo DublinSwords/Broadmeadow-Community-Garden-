@@ -14,10 +14,20 @@ body{
 h1,h2 {
     font-family: Yantramanav;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 4px;
     color:#008000;
 }
 #logo{
     float: center;
     font-size: 280%;
+}
+h1{
+    font-size:2rem;
+    margin: 0;
+}
+header{
+    color:blue;
+}
+header > p{
+    color: white;
 }
