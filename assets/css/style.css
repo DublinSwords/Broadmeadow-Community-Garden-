@@ -5,7 +5,7 @@
     border: none;
 }
 
-body{
+body {
     font-family: Merriweather, sans-serif;
     font-weight: 300;
     color:brown
@@ -16,18 +16,35 @@ h1,h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color:#008000;
+    text-align: center;
 }
-#logo{
+#logo {
     float: center;
     font-size: 280%;
 }
-h1{
+h1 {
     font-size:2rem;
     margin: 0;
 }
-header{
+header {
     color:blue;
 }
-header > p{
-    color: white;
+div > p {
+    color: brown;
+    text-align: center;
+}
+#menu {
+    text-align: center;
+    list-style-type: none;
+    margin-bottom: 30px;
+    line-height: 30px;
+    font-size: 110%;
+    display: inline;
+}
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+#menu a {
+    text-decoration: none;
+    color: darkgreen;
 }
