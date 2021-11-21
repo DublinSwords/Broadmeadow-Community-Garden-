@@ -15,7 +15,7 @@ h1,h2 {
     font-family: Yantramanav;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color:#008000;
+    color:#022702;
     text-align: center;
 }
 #logo {
@@ -23,23 +23,26 @@ h1,h2 {
     font-size: 280%;
 }
 h1 {
-    font-size:2rem;
+    font-size:3rem;
     margin: 0;
 }
-header {
-    color:blue;
-}
 div > p {
-    color: brown;
+    color: rgb(22, 1, 1);
     text-align: center;
 }
-#menu {
+#menu ul {
+    text-align: center;
+    background-color: beige;
+}
+#menu li {
     text-align: center;
     list-style-type: none;
     margin-bottom: 30px;
-    line-height: 30px;
+    line-height: 10px;
     font-size: 110%;
-    display: inline;
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
 }
 #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
@@ -47,4 +50,9 @@ div > p {
 #menu a {
     text-decoration: none;
     color: darkgreen;
+}
+#community-garden-image {
+  height: 600px;
+  width: 100%;
+  background: url('../images/community-garden-image.jpg') no-repeat center center;
 }
