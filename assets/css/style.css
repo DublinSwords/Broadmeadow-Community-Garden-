@@ -19,9 +19,10 @@ h1,h2 {
     text-align: center;
 }
 h1 {
-    font-size:4rem;
-    margin: 0;
+    font-size: 3rem;
+    margin-top: 0;
     background-color: beige;
+
 }
 
 #menu ul {
@@ -46,12 +47,12 @@ h1 {
     color: darkgreen;
 }
 #community-garden-outer {
-    height: 350px;
+    height: 500px;
     width: 100%;
     overflow: hidden;
 }
 #community-garden-image {
-  height: 350px;
+  height: 500px;
   width: 100%;
   background: url('../images/community-garden-image.jpg') no-repeat center center;
   /* animations zoom effect on loading page */
