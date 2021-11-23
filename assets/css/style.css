@@ -127,17 +127,31 @@ hr{
     background: url('../images/grow-fresh-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
-    object-fit: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
 }
 #grow-organic-image {
     background: url('../images/grow-organic-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
 }
 #get-social-image {
     background: url('../images/get-social-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
 }
 #map {
         width: 100%; 
