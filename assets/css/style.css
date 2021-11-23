@@ -113,7 +113,7 @@ hr{
     margin: 20px 0;
     font-size: 280%;
 }
-#circule-conteiner{
+#circle-conteiner{
     width: 300px;
     height: 300px;
     padding: 5px;
@@ -123,8 +123,19 @@ hr{
     border-radius: 50%;
     margin: 0 auto;
 }
-#grow-fresh-image{
-    height: 300px;
-    width: 100%;
+#grow-fresh-image {
     background: url('../images/grow-fresh-image.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: contain;
+}
+#grow-organic-image {
+    background: url('../images/grow-organic-image.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+#get-social-image {
+    background: url('../images/get-social-image.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
 }
