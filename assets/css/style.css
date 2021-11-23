@@ -21,13 +21,13 @@ h1,h2 {
 h1 {
     font-size: 3rem;
     margin-top: 0;
-    background-color: beige;
+    background-color: #fff;
 
 }
 
 #menu ul {
     text-align: center;
-    background-color: beige;
+    background-color: #fff;
 }
 #menu li {
     text-align: center;
