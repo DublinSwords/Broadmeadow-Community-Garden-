@@ -73,7 +73,8 @@ h1 {
 /* garden ethos*/
 
 #garden-ethos {
-    height: 600px;
+    height: 500px;
+    box-sizing: border-box;
 }
 #left-about{
     padding-top: 30px;
