@@ -176,7 +176,7 @@ hr{
 
 /*footer*/
 footer{
-    height: 150px;
+    height: 100px;
 }
 .social-networks{
     text-align: center;
@@ -188,5 +188,10 @@ footer{
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #3#3a3a3a;
+    color: #3a3a3a;
+}
+footer > p{
+    text-align: center;
+    text-transform: uppercase;
+    color: #3a3a3a;
 }
