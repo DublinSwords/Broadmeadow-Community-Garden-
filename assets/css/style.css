@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Yantramanav:wght@300&display=swap');
-*{
+
+* {
     margin: 0;
     padding: 0;
     border: none;
@@ -14,12 +15,12 @@ body {
 h1,h2 {
     font-family: Yantramanav;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 1px;
     color:#022702;
     text-align: center;
 }
 h1 {
-    font-size: 3rem;
+    font-size: 2rem;
     margin-top: 0;
     background-color: #fff;
 
@@ -188,6 +189,7 @@ footer{
     padding: 5%;
     color: #3a3a3a;
 }
+
 footer > p{
     text-align: center;
     text-transform: uppercase;
@@ -219,9 +221,8 @@ footer > p{
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
-    left: 35%;
-    top: 60%;
-    padding: 30px;
+    left: 10%;
+    top: 500px;
 }
 .signup-form h2 {
     color: #fafafa;
@@ -270,13 +271,16 @@ footer > p{
      hr {
          display: none;
      }
+     .footer-logo{
+    width: 320px;
+    margin: 10px;
+    }
  }
 
  /* for medium screen sizes from 950px wide and down */
  @media screen and (max-width: 950px) {
      #menu {
-         clear:left;
-         float: 0 auto;
+         clear: left;
          margin-bottom: 20px;
          line-height: 25px;
      }
@@ -295,10 +299,22 @@ footer > p{
      #photos {
          column-count: 3;
      }
+     .footer-logo{
+        width: 100px;
+        margin: 5px;
+        }
  }
  /* for small screen sizes 568px and down*/
  @media screen and (max-width: 568px) {
     #photos {
         column-count: 2;
     }
+    .name {
+        padding: 30px 0;
+        margin: 0;
+    }
+    .footer-logo{
+        width: 50px;
+        margin: 2px;
+        }
  }
