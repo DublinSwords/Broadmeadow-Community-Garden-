@@ -114,7 +114,7 @@ hr{
     margin: 20px 0;
     font-size: 280%;
 }
-#circle-container {
+.circle-container {
     width: 300px;
     height: 300px;
     padding: 5px;
@@ -167,7 +167,7 @@ hr{
     overflow: hidden;
     height: 100%;
 }
-#times {
+.times {
     text-align: center;
     color: black;
 }
@@ -275,9 +275,8 @@ footer > p{
  /* for medium screen sizes from 950px wide and down */
  @media screen and (max-width: 950px) {
      #menu {
-         clear: left;
-         float: left;
-         margin-left: 30px;
+         clear:left;
+         float: 0 auto;
          margin-bottom: 20px;
          line-height: 25px;
      }
@@ -297,8 +296,8 @@ footer > p{
          column-count: 3;
      }
  }
- /* for small screen sizes 800px and down*/
- @media screen and (max-width: 800px) {
+ /* for small screen sizes 568px and down*/
+ @media screen and (max-width: 568px) {
     #photos {
         column-count: 2;
     }
