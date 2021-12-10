@@ -252,16 +252,11 @@ footer > p{
          padding: 30px 0;
          margin: 0;
      }
-     #left-about {
+     #left-about, #rigth-about {
          width: 100%;
          float: left;
          padding: 0;
      }
-     #rigth-about {
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
      #center-about {
          clear: both;
          width: 100%;
@@ -289,20 +284,13 @@ footer > p{
          height: 1200px;
          margin: 0 auto;
      }
-     .left-about-heading, .right-about-heading{
+     .left-about-heading, .right-about-heading, .center-about-heading {
          width: inherit;
      }
-     .left-about-heading h2, .right-about-heading h2 {
+     .left-about-heading h2, .right-about-heading h2, .center-about-heading h2 {
          width: 100%;
          text-align: center;
-     }
-     #photos {
-         column-count: 3;
-     }
-     .footer-logo{
-        width: 100px;
-        margin: 5px;
-        }
+     }   
  }
  /* for small screen sizes 568px and down*/
  @media screen and (max-width: 568px) {
