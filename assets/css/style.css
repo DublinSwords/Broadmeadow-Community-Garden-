@@ -74,21 +74,24 @@ h1 {
 /* garden ethos*/
 
 #garden-ethos {
-    height: 500px;
+    height: 100%;
 }
 #left-about {
-    padding-top: 30px;
-    width: 33%;
+    padding-top: 10px;
+    height: 500px;
     float: left;
+    margin: 100px;
+    align-items: center;
 }
 #right-about {
     padding-top: 30px;
-    width: 33%;
-    float: right;
+    float: left;
+    margin: 50px;
 }
 #center-about {
-    width: 33%;
-    margin: 0 auto;
+    padding-top: 30px;
+    float: left;
+    margin: 50px;
 }
 hr{
     border-top: 1px solid #3a3a3a;
@@ -96,17 +99,17 @@ hr{
     margin: 5px 0;
 }
 .left-about-heading {
-    width: 60%;
+    width: 100%;
     margin: 0 auto;
     line-height: 20px;
 }
 .right-about-heading {
-    width: 60%;
+    width: 100%;
     margin: 0 auto;
     line-height: 20px;
 }
 .center-about-heading {
-    width: 60%;
+    width: 100%;
     margin: 0 auto;
     line-height: 20px;
 }
@@ -146,7 +149,7 @@ hr{
     overflow: hidden;
 }
 #get-social-image {
-    background: url('../images/get-social-image.jpg') no-repeat center center;
+    background: url('../images/community-garden-image.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
     background-repeat: no-repeat;
@@ -244,25 +247,28 @@ footer > p{
 
  @media screen and (max-width: 1200px) {
      #garden-ethos {
-         width: 65%;
-         height: 1200px;
+         width: 100%;
+         height: 100%;
          margin: 0 auto;
      }
      #logo {
          padding: 30px 0;
          margin: 0;
      }
-     #left-about, #rigth-about {
-         width: 100%;
+     #left-about, #rigth-about, #center-about {
          float: left;
-         padding: 0;
+         margin: 20px;
      }
-     #center-about {
-         clear: both;
-         width: 100%;
-         float: left;
-         padding: 0;
-     }
+     .circle-container {
+        width: 250px;
+        height: 250px;
+        padding: 5px;
+        border-style: solid;
+        border-color: #ccc;
+        border-width: 1px;
+        border-radius: 50%;
+        margin: 0 auto;
+    }
      hr {
          display: none;
      }
@@ -280,8 +286,8 @@ footer > p{
          line-height: 25px;
      }
      #garden-ethos {
-         width: 90%;
-         height: 1200px;
+         width: 100%;
+         height: 100%;
          margin: 0 auto;
      }
      .left-about-heading, .right-about-heading, .center-about-heading {
@@ -290,7 +296,21 @@ footer > p{
      .left-about-heading h2, .right-about-heading h2, .center-about-heading h2 {
          width: 100%;
          text-align: center;
-     }   
+     } 
+     #left-about, #rigth-about, #center-about {
+        float: left;
+        margin: 22px;
+     }
+     .circle-container {
+        width: 200px;
+        height: 200px;
+        padding: 5px;
+        border-style: solid;
+        border-color: #ccc;
+        border-width: 1px;
+        border-radius: 50%;
+        margin: 0 auto;
+    } 
  }
  /* for small screen sizes 568px and down*/
  @media screen and (max-width: 568px) {
@@ -305,4 +325,19 @@ footer > p{
         width: 50px;
         margin: 2px;
         }
+    #left-about, #rigth-about, #center-about {
+        float: left;
+        margin: 5px;
+        width: 100%;
+    }   
+    .circle-container {
+        width: 170px;
+        height: 170px;
+        padding: 5px;
+        border-style: solid;
+        border-color: #ccc;
+        border-width: 1px;
+        border-radius: 50%;
+        margin: 0 auto;
+        }   
  }
