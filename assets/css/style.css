@@ -76,19 +76,19 @@ h1 {
 #garden-ethos {
     height: 100%;
 }
-#left-about {
+.left-about {
     padding-top: 10px;
     height: 500px;
     float: left;
     margin: 100px;
     align-items: center;
 }
-#right-about {
+.right-about {
     padding-top: 30px;
     float: left;
     margin: 50px;
 }
-#center-about {
+.center-about {
     padding-top: 30px;
     float: left;
     margin: 50px;
@@ -259,7 +259,7 @@ footer > p{
          padding: 30px 0;
          margin: 0;
      }
-     #left-about, #rigth-about, #center-about {
+     .left-about, .rigth-about, .center-about {
          float: left;
          margin: 20px;
      }
@@ -301,7 +301,7 @@ footer > p{
          width: 100%;
          text-align: center;
      } 
-     #left-about, #rigth-about, #center-about {
+     .left-about, .rigth-about, .center-about {
         float: left;
         margin: 22px;
      }
@@ -329,7 +329,7 @@ footer > p{
         width: 50px;
         margin: 2px;
         }
-    #left-about, #rigth-about, #center-about {
+    .left-about, .rigth-about, .center-about {
         float: left;
         margin: 5px;
         width: 100%;
