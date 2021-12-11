@@ -229,6 +229,7 @@ footer > p{
     position: absolute;
     left: 10%;
     top: 500px;
+    padding: 10px 10px 10px 10px;
 }
 .signup-form h2 {
     color: #fafafa;
