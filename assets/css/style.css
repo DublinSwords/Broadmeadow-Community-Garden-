@@ -98,6 +98,9 @@ hr{
     width: 100%;
     margin: 5px 0;
 }
+.garden {
+    margin-top: 15px;
+}
 .left-about-heading {
     width: 100%;
     margin: 0 auto;
@@ -119,8 +122,8 @@ hr{
     font-size: 280%;
 }
 .circle-container {
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: 280px;
     padding: 5px;
     border-style: solid;
     border-color: #ccc;
