@@ -36,4 +36,117 @@ Main colors used in a project
 ### Images
 * I used my images from the gallery from Broadmeadow Community Garden.
 
+## Feature
+The website consist of 3 pages. Three are accessible from navigation menu.
 
+The website has below features:
+
+### Navigation bar
+ * Navigation bar is visible on the top of each page of website. It is responsive and will adapt to mobile devices.
+ * Navigation scheme:
+    * In the centre there are three links. It contains: 
+       * Home 
+       * Our Gallery
+       * Joun Us
+### Footer
+* It has social links in the center. Each link will open in a separate tab in a browser. Also has image of Dublin Airport Community Fund & image of Fingal County Council. Ech link will open in a separate tab in a Browser. 
+
+## Home 
+* Logo Broadmeadow Community garden. 
+* Navigation menu.
+* Hero image
+  * Includes an image in the center.
+* Logo: Growing vegetables and ftuits.
+  * Includes three images with headings, Grow Fresh, Grow organic, Get Social. Under each image a text about how important to grow fresh, organic food, and how community garden is connecting people.
+* Contact us
+  * Includes times and days when community garden is opened. 
+* Map
+  * Location of community garden. 
+* Footer
+  * It has social links in the center. Each link will open in a separate tab in a browser. Also has image of Dublin Airport Community Fund & image of Fingal County Council. Ech link will open in a separate tab in a Browser.
+
+## Our Gallery
+* Logo Broadmeadow Community garden. 
+* Navigation menu.
+* Images from our Broadmeadow community garden, user can see what kind of veg and fruits we are groing. 
+* Footer
+  * It has social links in the center. Each link will open in a separate tab in a browser. Also has image of Dublin Airport Community Fund & image of Fingal County Council. Ech link will open in a separate tab in a Browser.
+
+## Join Us
+* Logo Broadmeadow Community garden. 
+* Navigation menu.
+* Image of raspberryberry andd in the middle from the left hand side is signup form with threee fields, Name, Surname, Email, and join us botton. New user can send his details. 
+* Footer
+  * It has social links in the center. Each link will open in a separate tab in a browser. Also has image of Dublin Airport Community Fund & image of Fingal County Council. Ech link will open in a separate tab in a Browser.
+
+# Technologies used 
+
+## HTML5
+* As a structurel language.
+
+## CSS
+* As a style language. 
+
+## Font Awesome
+* As an icon library for a social links.
+
+## Google Fonts
+* As a font resource. 
+
+## Git Hub
+* As a As a software hosting platform to keep project in a remote location.
+
+## Git 
+* As a version-control system tracking.
+
+## Git Pod
+* As a development hosting platform.
+
+## Love Running website
+* Adopted some code from Love Running website. 
+   
+# Testing
+
+## Finctionality testing
+* I used Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
+
+## Compatibility testing
+* Site was tested across multiple virtual mobile devices and browsers. I checked all supported devices in both Safari web developer tolls and Chrome developer tools.
+
+# Issues found during site development
+* Images Dublin Airport Community Fund and Fingal County Council was so big, first of all I applied inline rule in HTML5 after that Validator showed me an error. I deleted inline rule in html5 I created a class for both pictures "Footer-Logo" and in CSS I gived property and value for this that class. 
+* Images "Grow Fresh" and "Grow Organic", "Get Social" was not responcive on iPad device and Mobile Devise, I create @ media screen for 1200px and down and @ media screen for 950px and down and @ media screen for 568 px and down.
+
+# Code Validation
+* At the end of the project I used two websites to validate a code
+* To validate CSS [https://jigsaw.w3.org/css-validator/]
+* To test HTML5 [https://validator.w3.org/]
+
+# Deployment
+The project was deployed on GitHub Pages. I used Gitpod as a development environment where I commited all changes to git version control system. I used push command in Gitpod to save changes into GitHub.
+
+To deploy a project I had to:
+
+* Log in to GitHub and click on repository to deploy Broadmeadow Community garden [https://github.com/DublinSwords/Broadmeadow-Community-Garden-]
+* select Settings and find Git Hub Pages section at the very bottom of the page. 
+* from source select none and Broadmeadow Community garden branch.
+* click save and page was deployed after auto refresh. 
+My site is published at [ https://dublinswords.github.io/Broadmeadow-Community-Garden-/]
+
+# Credits
+
+* To complete this project I used Code Institute student template: [https://github.com/Code-Institute-Org/gitpod-full-template]
+* Ideas and library: 
+  * [https://www.w3schools.com/]
+
+## Code
+
+* Love Runnning project. 
+
+## Map 
+
+* [https://goo.gl/maps/5gCF1fCEpXWup5EJ8]
+
+## Images
+
+* Images from my gallery from Broadmeadow Community garden. 
