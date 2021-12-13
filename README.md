@@ -133,6 +133,14 @@ To deploy a project I had to:
 * click save and page was deployed after auto refresh. 
 My site is published at [ https://dublinswords.github.io/Broadmeadow-Community-Garden-/]
 
+To run localy:
+
+* Log in to GitHub and click on repository to download [https://github.com/DublinSwords/Broadmeadow-Community-Garden-]
+* select Code and click Download 
+* after download you can extract the file and use it in your local environment
+
+Alternatively you can Clone [https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository] or Fork [https://docs.github.com/en/get-started/quickstart/fork-a-repo] this repository [https://github.com/DublinSwords/Broadmeadow-Community-Garden-] into your github account.
+
 # Credits
 
 * To complete this project I used Code Institute student template: [https://github.com/Code-Institute-Org/gitpod-full-template]
