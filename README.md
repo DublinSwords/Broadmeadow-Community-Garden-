@@ -119,8 +119,8 @@ The website has below features:
 
 # Code Validation
 * At the end of the project I used two websites to validate a code
-* To validate CSS [https://jigsaw.w3.org/css-validator/]
-* To test HTML5 [https://validator.w3.org/]
+* To validate CSS [https://jigsaw.w3.org/css-validator/validator]
+* To test HTML5 [https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html#textarea]
 
 # Deployment
 The project was deployed on GitHub Pages. I used Gitpod as a development environment where I commited all changes to git version control system. I used push command in Gitpod to save changes into GitHub.
