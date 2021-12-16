@@ -1,4 +1,5 @@
 # Broadmeadow Community Garden website
+![](assets/images/amiresp.jpg)
 
 This project is for people who love to grow organic, fresh fruits and vegetables. Users will be able to find our location, will be able to see our gallery, days, and times when we are opened. 
   
@@ -117,6 +118,10 @@ The website has below features:
 * Images Dublin Airport Community Fund and Fingal County Council was so big, first of all I applied inline rule in HTML5 after that Validator showed me an error. I deleted inline rule in html5 I created a class for both pictures "Footer-Logo" and in CSS I gived property and value for this that class. 
 * Images "Grow Fresh" and "Grow Organic", "Get Social" was not responcive on iPad device and Mobile Devise, I create @ media screen for 1200px and down and @ media screen for 950px and down and @ media screen for 568 px and down.
 
+# Performance testing
+I run Lighthouse tool to check performance of the website. Screenshot is presented below:
+![](assets/images/ligthhouse.jpg)
+
 # Code Validation
 * At the end of the project I used two websites to validate a code
 * To validate CSS [https://jigsaw.w3.org/css-validator/validator]
@@ -158,3 +163,13 @@ Alternatively you can Clone [https://docs.github.com/en/repositories/creating-an
 ## Images
 
 * Images from my gallery from Broadmeadow Community garden. 
+
+# Project screenshots
+
+![](assets/images/header.jpg)
+![](assets/images/body.jpg)
+![](assets/images/map.jpg)
+![](assets/images/ourgallery.jpg)
+![](assets/images/ourgallery2.jpg)
+![](assets/images/ourgallery3.jpg)
+![](assets/images/joinus.jpg)
