@@ -101,14 +101,11 @@ The website has below features:
 * As a version-control system tracking.
 
 ## Git Pod
-* As a development hosting platform.
-
-## Love Running website
-* Adopted some code from Love Running website. 
+* As a development hosting platform. 
    
 # Testing
 
-## Finctionality testing
+## Functionality testing
 * I used Chrome developer tools throughout the project for testing and solving problems with responsiveness and style issues.
 
 ## Compatibility testing
@@ -154,9 +151,9 @@ Alternatively you can Clone [https://docs.github.com/en/repositories/creating-an
 * Ideas and library: 
   * [https://www.w3schools.com/]
 
-## Code
+## Code from love Running website
 
-* Love Runnning project. 
+* Adopted most code from Love Running website.
 
 ## Map 
 
@@ -168,10 +165,17 @@ Alternatively you can Clone [https://docs.github.com/en/repositories/creating-an
 
 # Project screenshots
 
-![](assets/images/header.jpg)
-![](assets/images/body.jpg)
-![](assets/images/map.jpg)
-![](assets/images/ourgallery.jpg)
-![](assets/images/ourgallery2.jpg)
-![](assets/images/ourgallery3.jpg)
-![](assets/images/joinus.jpg)
+![Hero-image members of Broadmeadow Community Garden](assets/images/header.jpg)
+Users can see our members who working together.
+![Three images with explanation why people should grow food](assets/images/body.jpg)
+Users can see three pictures with explanation how important to grow fresh and organic food, and how important to be a part of community.
+![The user easly will find the location of our garden](assets/images/map.jpg)
+Users can easly find our location and days when we are opened. 
+![User can see what kinf of flowers, fruits and veg we are growing](assets/images/ourgallery.jpg)
+Users can see what kind of flowers, fruits and veg we are growing. 
+![User can see what kind of flowers, fruits and veg we are growing](assets/images/ourgallery2.jpg)
+Users can see what kind of flowers, fruits and veg we are growing. 
+![User can see what kinf of flowers, fruits and veg we are growing](assets/images/ourgallery3.jpg)
+Users can see what kind of flowers, fruits and veg we are growing. 
+![User can fill join us form](assets/images/joinus.jpg)
+Users can fill join us form to become a new member. 
