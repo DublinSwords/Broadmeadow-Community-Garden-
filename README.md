@@ -167,15 +167,21 @@ Alternatively you can Clone [https://docs.github.com/en/repositories/creating-an
 
 ![Hero-image members of Broadmeadow Community Garden](assets/images/header.jpg)
 Users can see our members who working together.
+
 ![Three images with explanation why people should grow food](assets/images/body.jpg)
 Users can see three pictures with explanation how important to grow fresh and organic food, and how important to be a part of community.
+
 ![The user easly will find the location of our garden](assets/images/map.jpg)
 Users can easly find our location and days when we are opened. 
+
 ![User can see what kinf of flowers, fruits and veg we are growing](assets/images/ourgallery.jpg)
 Users can see what kind of flowers, fruits and veg we are growing. 
+
 ![User can see what kind of flowers, fruits and veg we are growing](assets/images/ourgallery2.jpg)
 Users can see what kind of flowers, fruits and veg we are growing. 
+
 ![User can see what kinf of flowers, fruits and veg we are growing](assets/images/ourgallery3.jpg)
 Users can see what kind of flowers, fruits and veg we are growing. 
+
 ![User can fill join us form](assets/images/joinus.jpg)
 Users can fill join us form to become a new member. 
