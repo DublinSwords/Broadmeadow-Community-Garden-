@@ -11,10 +11,7 @@ The reason to create this website is to help people how love grow organic food t
 ## User goals
 * user is able to find the location of the place and contact information.
 * users can easily fill forms to join us.
-* user is able to see what kind of veg and fruits we are groing in our community garden.
-
-## Structure of the website
-The website is designed to be easy and user-friendly on all types devices. On laptop, tablet or mobile devise there should be no difference for a user to have a great experience. 
+* user is able to see what kind of veg and fruits we are groing in our community garden. 
 
 ## Surface
 
@@ -151,7 +148,7 @@ Alternatively you can Clone [https://docs.github.com/en/repositories/creating-an
 * Ideas and library: 
   * [https://www.w3schools.com/]
 
-## Code from love Running website
+## Code from Love Running website
 
 * Adopted most code from Love Running website.
 
