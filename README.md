@@ -150,7 +150,7 @@ Alternatively you can Clone [https://docs.github.com/en/repositories/creating-an
 
 ## Code from Love Running website
 
-* Adopted most code from Love Running website.
+* Most code is adopted from Love Running website.
 
 ## Map 
 
